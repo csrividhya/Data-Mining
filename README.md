@@ -22,6 +22,4 @@ In fact, each subdirectory has a detailed readme file as to how to run the pytho
 
 **Srividhya Chandrasekharan** .
 
-## Acknowledgments
-* Data Mining Professor - Dr. Justin Ziniel
 
