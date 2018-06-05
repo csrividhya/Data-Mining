@@ -1,6 +1,6 @@
----Data Mining Homework #2---
+** K Nearest Neighbour Algorithm Implementation from scratch**
 
-This is the submission of Srividhya Chandrasekharan.
+	Created by Srividhya Chandrasekharan.
 
 	Files submitted are the python source file to implement kNN algo, testing & training datasets used, bashscript, code to generate ROC curve, code implementing scikit-learn's kNN classifier whose results were used for Section 3 and a readme.txt.
 
